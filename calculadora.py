@@ -1,4 +1,3 @@
-#calculadora
 while True:
     print(''' [ 1 ] Somar
     [ 2 ] Subtração
